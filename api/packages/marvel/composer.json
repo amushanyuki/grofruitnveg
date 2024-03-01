@@ -4,12 +4,12 @@
     "license": "license",
     "authors": [
         {
-            "name": "RedQ",
-            "email": "support@redqteam.com",
-            "homepage": "https://redq.io"
+            "name": "Grofruit & Veg",
+            "email": "mushanyukiamen@gmail.com",
+            "homepage": "https://grofuit.com"
         }
     ],
-    "homepage": "https://github.com/marvel/gateway",
+    "homepage": "https://github.com/amushanyuki/grofruitnveg",
     "keywords": [
         "Laravel",
         "Shop"
